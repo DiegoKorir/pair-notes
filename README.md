@@ -3,3 +3,5 @@ Favourite place: Nyamarambe
 Favorite hobby: Boxing
 Favourite meal: Ugali choma ,specifically goat's choma
 Add rule test
+
+Favorite place again!:
